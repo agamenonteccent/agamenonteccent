@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Agamenon</h1>
 
-<!--
-**agamenonteccent/agamenonteccent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Analista de Sistemas com foco em UX Research, IA aplicada a negócios e desenvolvimento estratégico**  
+🧠 Criador do **TecCent – Tecnologia Centralizada**  
+🧠 Criador do **Hosistec – Hospedagem de Sistema Tecnológico** 
+📊 Transformando dados e experiência do usuário em decisões de valor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- 💻 Python | JavaScript | Node | HTML | CSS
+- 🧠 IA & Automação: OpenAI, LLMs, Workflow IA
+- 📊 Dados & Análise: SQL, Power BI, Pandas
+- 🎨 UX Research | Design de Experiência
+- 🔧 Git | GitHub | APIs | Cloud
+
+---
+
+### 📌 O que estou fazendo atualmente
+- 🔍 Desenvolvendo soluções com IA aplicada a negócios
+- 📐 Estruturando requisitos com base em ICP e UX Research
+- 🛠️ Criando frameworks e protótipos para o TecCent
+
+---
+
+### 🚀 Projetos em destaque
+| Projeto | Descrição |
+|---------|-----------|
+| **TecCent** | Plataforma de tecnologia centralizada |
+| **Hosistec** | Hospedagem de sistema tecnológico |
+| **Projetos IA** | Aplicações práticas com LLM e automação |
+| **UX Research Tools** | Scripts e recursos para análise de usuário |
+
+---
+
+### 📫 Como me encontrar
+📌 LinkedIn: *https://www.linkedin.com/in/francisco-agamenon-quinder%C3%A9-silva-593616238/*  
+📌 Site / Portfólio: *https://www.teccent.com.br/ ou https://www.hosistec.com.br/*  
+📌 E-mail: *teccentinfo@gmail.com*
+
+---
